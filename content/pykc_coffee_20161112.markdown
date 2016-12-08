@@ -1,7 +1,7 @@
 Title: PythonKC November 2016 Coffee & Code Meeting Notes
 Date: 2016-11-12 00:00
 Category: Meeting Notes
-Tags: coffee & code
+Tags: pythonkc, coffee & code
 Summary: Meeting notes for November 2016 PythonKC Coffee & Code
 
 # PythonKC November 2016 Coffee & Code

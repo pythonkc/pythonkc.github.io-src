@@ -1,7 +1,7 @@
 Title: PythonKC Spring 2016 Meetup Meeting Notes
 Date: 2016-03-24 00:00
 Category: Meeting Notes
-Tags: seasonal meetups
+Tags: pythonkc, seasonal meetups
 Summary: Meeting notes for Spring 2016 Python KC Meetup
 
 # PythonKC Spring 2016 Meetup

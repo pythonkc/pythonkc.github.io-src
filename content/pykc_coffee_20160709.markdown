@@ -1,7 +1,7 @@
 Title: PythonKC July 2016 Coffee & Code Meeting Notes
 Date: 2016-07-09 00:00
 Category: Meeting Notes
-Tags: coffee & code
+Tags: pythonkc, coffee & code
 Summary: Meeting notes for July 2016 PythonKC Coffee & Code
 
 # PythonKC July 2016 Coffee & Code

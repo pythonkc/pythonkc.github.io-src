@@ -1,7 +1,7 @@
 Title: PythonKC Autumn 2016 Meetup Meeting Notes
 Date: 2016-10-27 00:00
 Category: Meeting Notes
-Tags: seasonal meetup
+Tags: pythonkc, seasonal meetups
 Summary: Meeting notes for Autumn 2016 PythonKC Meetup
 
 # PythonKC Autumn 2016 Meetup
