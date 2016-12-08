@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'PythonKC Organizer Team'
+AUTHOR = 'The PythonKC Organizer Team'
 SITENAME = 'PythonKC'
-SITEURL = ''
+SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -14,6 +14,8 @@ DEFAULT_LANG = 'en'
 
 # Theme
 THEME = 'pelican-blue'
+SIDEBAR_DIGEST = 'supporting the Python community in the greater Kansas City area'
+TWITTER_USERNAME = 'pythonkc'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -34,6 +36,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('Twitter', 'https://twitter.com/PythonKC'),
+    ('GitHub', 'https://github.com/pythonkc'),
     ('LinkedIn', 'https://www.linkedin.com/groups/3996011'),
 )
 
