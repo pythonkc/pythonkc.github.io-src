@@ -13,9 +13,10 @@ TIMEZONE = 'US/Central'
 DEFAULT_LANG = 'en'
 
 # Theme
-THEME = 'pelican-blue'
+THEME = 'pelican-bootstrap3'
 SIDEBAR_DIGEST = 'supporting the Python community in the greater Kansas City area'
 TWITTER_USERNAME = 'pythonkc'
+PYGMENTS_STYLE = 'solarizedlight'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -26,8 +27,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ('PythonKC Meetup.com', 'https://www.meetup.com/pythonkc/'),
-    ('PythonKC Slack', 'https://pykc-slackipy.herokuapp.com/'),
+    ('PyKC Meetup.com', 'https://www.meetup.com/pythonkc/'),
+    ('PyKC Slack', 'https://pykc-slackipy.herokuapp.com/'),
     ('Pelican', 'http://docs.getpelican.com/en/stable/'),
     ('Python.org', 'https://python.org/'),
     ('Jinja2', 'http://jinja.pocoo.org/'),
