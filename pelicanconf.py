@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'The PythonKC Organizer Team'
 SITENAME = 'PythonKC'
-SITEURL = 'http://localhost:8000'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -28,8 +28,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ('PythonKC Meetup.com', 'https://www.meetup.com/pythonkc/'),
     ('PythonKC Slack', 'https://pykc-slackipy.herokuapp.com/'),
-    ('Pelican', 'http://getpelican.com/'),
-    ('Python.org', 'http://python.org/'),
+    ('Pelican', 'http://docs.getpelican.com/en/stable/'),
+    ('Python.org', 'https://python.org/'),
     ('Jinja2', 'http://jinja.pocoo.org/'),
 )
 
