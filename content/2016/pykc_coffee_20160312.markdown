@@ -1,10 +1,8 @@
-Title: PythonKC March 2016 Coffee & Code Meeting Notes
+Title: PythonKC March 2016 Coffee & Code
 Date: 2016-03-12 00:00
 Category: Meeting Notes
 Tags: pythonkc, coffee & code
 Summary: Meeting notes for March 2016 PythonKC Coffee & Code
-
-# PythonKC March 2016 Coffee & Code
 
 ```python
 #!/usr/bin/env python3

@@ -1,10 +1,8 @@
 Title: Getting the Most Out of PythonKC
 Date: 2016-03-24 00:00
-Category: HOW-TOs
+Category: HOW-TO
 Tags: pythonkc
 Summary: How to get the most out of being a PythonKC member
-
-# Getting the Most Out of PythonKC
 
 ## Learning Python
 * PythonKC is _not_ here to teach you Python for free (sorry; _not sorry_).

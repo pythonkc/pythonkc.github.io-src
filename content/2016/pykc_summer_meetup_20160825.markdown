@@ -1,10 +1,8 @@
-Title: PythonKC Summer 2016 Meetup Meeting Notes
+Title: PythonKC Summer 2016 Meetup
 Date: 2016-08-25 00:00
 Category: Meeting Notes
 Tags: pythonkc, seasonal meetups
 Summary: Meeting notes for Summer 2016 Python KC Meetup
-
-# PythonKC Summer 2016 Meetup
 
 ```python
 #!/usr/bin/env python3
