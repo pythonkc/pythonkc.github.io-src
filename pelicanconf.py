@@ -18,6 +18,20 @@ SIDEBAR_DIGEST = 'supporting the Python community in the greater Kansas City are
 TWITTER_USERNAME = 'pythonkc'
 PYGMENTS_STYLE = 'solarizedlight'
 
+# Pretty URLs
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}/'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
+
+# Archives
+YEAR_ARCHIVE_SAVE_AS = 'archive/{date:%Y}/index.html'
+MONTH_ARCHIVE_SAVE_AS = 'archive/{date:%Y}/{date:%m}/index.html'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

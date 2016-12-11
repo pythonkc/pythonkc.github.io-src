@@ -1,8 +1,8 @@
-Title: PythonKC Code of Contact
+Title: PythonKC Code of Conduct
 Date: 2015-12-15 00:00
 Category: Code of Conduct
 Tags: pythonkc
-Summary: PythonKC Code of Contact
+Summary: PythonKC Code of Conduct
 
 Like the technical community as a whole, the PythonKC community is made up of a mixture of professionals and volunteers from all over the world, working on every aspect of the mission - including mentorship, teaching, and connecting people.
 
