@@ -301,6 +301,7 @@ GitHub.sublime-settings
 
 
 ### VisualStudioCode ###
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -309,4 +310,3 @@ GitHub.sublime-settings
 
 ### pythonkc.github.io-src ###
 output
-
