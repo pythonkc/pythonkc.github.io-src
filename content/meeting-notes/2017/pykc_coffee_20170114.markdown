@@ -37,3 +37,4 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * Python.org Blog. [Python 3.6.0 is now available!](http://blog.python.org/2016/12/python-360-is-now-available.html)
+* Trey Hunner. [The Iterator Protocol: How `for` Loops Work in Python](http://treyhunner.com/2016/12/python-iterator-protocol-how-for-loops-work/)
