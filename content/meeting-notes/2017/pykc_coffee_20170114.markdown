@@ -1,5 +1,5 @@
 Title: PythonKC January 2017 Coffee & Code
-Date: 2016-01-13 00:00
+Date: 2017-01-14 00:00
 Category: Meeting Notes
 Tags: pythonkc, coffee & code
 Summary: Meeting notes for January 2017 PythonKC Coffee & Code
@@ -35,7 +35,7 @@ if __name__ == '__main__':
 * [Discount on print and/or electronic version available from Pearson/InformIT](https://www.meetup.com/pythonkc/messages/boards/thread/48671344/0#129968417)
 * `#bookclub` channel on PythonKC Slack
 * One chapter per month
-* ~~Chapter 1 discussion today~~ Since January 2017 Coffee & Code was cancelled, we'll cover chapters 1 _and_ 2 at February 2017 Coffee & Code
+* Since January 2017 Coffee & Code was cancelled, we'll cover chapters 1 _and_ 2 at February 2017 Coffee & Code
 
 ## Python News and Resources
 * Python.org Blog. [Python 3.6.0 is now available!](http://blog.python.org/2016/12/python-360-is-now-available.html)
