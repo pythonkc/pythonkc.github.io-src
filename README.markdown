@@ -16,12 +16,12 @@ Make sure you are in the top-level directory of the repository.
 $ cd output
 $ python -m pelican.server
 ```
-Visit `http://localhost:8000` in your browser.
+Visit `[http://localhost:8000/](http://localhost:8000)` in your browser.
 
-## How to deploy to `https://pythonkc.github.io`
+## How to deploy to `https://pythonkc.github.io/`
 Make sure you are in the top-level directory of the repository.
 ```shell
 $ ghp-import output
 $ git push https://github.com/pythonkc/pythonkc.github.io.git gh-pages:master --force
 ```
-Visit `https://pythonkc.github.io` to verify the deployment.
+Visit `[https://pythonkc.github.io/](https://pythonkc.github.io/)` in your browser to verify the deployment.
