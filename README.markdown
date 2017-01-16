@@ -16,7 +16,7 @@ Make sure you are in the top-level directory of the repository.
 $ cd output
 $ python -m pelican.server
 ```
-Visit [`http://localhost:8000/`](http://localhost:8000) in your browser.
+Visit [`http://localhost:8000/`](http://localhost:8000/) in your browser.
 
 ## How to deploy to `https://pythonkc.github.io/`
 Make sure you are in the top-level directory of the repository.
