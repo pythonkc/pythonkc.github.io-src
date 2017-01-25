@@ -21,7 +21,7 @@ if __name__ == '__main__':
 
 * [Thursday 26 January 2017](https://www.meetup.com/pythonkc/events/232904085/)
 * [GRID Collaborative Workspace](http://www.connectatgrid.com)
-* Python ❤️ Rust: Bryan Myers will discuss using Python and [Rust](https://www.rust-lang.org/en-US/) together.
+* Python ❤️ Rust: Brian Myers will discuss using Python and [Rust](https://www.rust-lang.org/en-US/) together.
 * Building a Pyramid on the Micro-framework Landscape: Sean Zicari will explore the excellent architecture, robust features, and some practical examples of how the [Pyramid](https://trypyramid.com) framework solves a lot of big problems with just the right amount of code.
 * LaunchCode: Muriel Green will discuss her experiences in the first semester of the [LauchCode](https://www.launchcode.org).
 
