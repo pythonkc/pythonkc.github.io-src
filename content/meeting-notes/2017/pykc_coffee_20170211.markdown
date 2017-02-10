@@ -35,3 +35,4 @@ if __name__ == '__main__':
 * Chapters 1 and 2 today (since PyKC Coffee & Code was cancelled last month)
 
 ## Python News and Resources
+* Aaron Maxwell. [Python Functions Aren't What You Think](http://powerfulpython.com/blog/python-functions-arent-what-you-think/)
