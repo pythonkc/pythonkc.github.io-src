@@ -36,3 +36,6 @@ if __name__ == '__main__':
 
 ## Python News and Resources
 * Aaron Maxwell. [Python Functions Aren't What You Think](http://powerfulpython.com/blog/python-functions-arent-what-you-think/)
+* Amos Omondi. [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)
+* Karlijn Willems. [Python Excel Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-excel-tutorial)
+* Nick Sweeting. [Reconciling Django Templates with React Components](https://hackernoon.com/reconciling-djangos-mvc-templates-with-react-components-3aa986cf510a)
