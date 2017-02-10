@@ -37,5 +37,8 @@ if __name__ == '__main__':
 ## Python News and Resources
 * Aaron Maxwell. [Python Functions Aren't What You Think](http://powerfulpython.com/blog/python-functions-arent-what-you-think/)
 * Amos Omondi. [Build Your First Python and Django Application](https://scotch.io/tutorials/build-your-first-python-and-django-application)
+* Dan Bader. [Lambda Functions in Python: What Are They Good For?](https://dbader.org/blog/python-lambda-functions)
+* Jee Githinji. [Build a REST API with Django – A Test Driven Approach: Part 1](https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1)
 * Karlijn Willems. [Python Excel Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/python-excel-tutorial)
+* Mike Driscoll. [New in Python: Formatted string literals](http://www.blog.pythonlibrary.org/2017/02/08/new-in-python-formatted-string-literals/)
 * Nick Sweeting. [Reconciling Django Templates with React Components](https://hackernoon.com/reconciling-djangos-mvc-templates-with-react-components-3aa986cf510a)
