@@ -1,5 +1,5 @@
 Title: PythonKC February 2017 Coffee & Code
-Date: 2017-01-10 00:00
+Date: 2017-02-10 00:00
 Category: Meeting Notes
 Tags: pythonkc, coffee & code
 Summary: Meeting notes for February 2017 PythonKC Coffee & Code
