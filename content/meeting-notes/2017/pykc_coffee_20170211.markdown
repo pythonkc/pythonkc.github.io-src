@@ -17,7 +17,7 @@ if __name__ == '__main__':
     greetings()
 ```
 
-## PythonKC Winter 2017 Meetup
+## PythonKC Spring 2017 Meetup
 
 * [Thursday 23 March 2017](https://www.meetup.com/pythonkc/events/sgjdhlywfbfc/)
 * No location yet (suggestions welcome)
