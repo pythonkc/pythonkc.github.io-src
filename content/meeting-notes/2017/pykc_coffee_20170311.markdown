@@ -20,7 +20,7 @@ if __name__ == '__main__':
 ## PythonKC Spring 2017 Meetup
 
 * [Thursday 23 March 2017](https://www.meetup.com/pythonkc/events/sgjdhlywfbfc/)
-* [Will & Grant](https://www.willgrail.com)
+* [Will & Grail](https://www.willgrail.com)
 * One presentation volunteer so far (two more welcome)
 
 ## PythonKC April 2017 Coffee & Code
