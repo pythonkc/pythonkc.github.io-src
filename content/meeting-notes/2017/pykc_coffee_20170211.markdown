@@ -10,7 +10,7 @@ Summary: Meeting notes for February 2017 PythonKC Coffee & Code
 
 def greetings():
     print("Welcome to PythonKC Coffee & Code.")
-    print("Today is Saturday 11 February 2016.")
+    print("Today is Saturday 11 February 2017.")
     print("Thanks to C2FO for hosting.")
 
 if __name__ == '__main__':
@@ -23,7 +23,7 @@ if __name__ == '__main__':
 * No location yet (suggestions welcome)
 * One presentation volunteer so far (two more welcome)
 
-## PythonKC February 2016 Coffee & Code
+## PythonKC March 2017 Coffee & Code
 * [Saturday 11 March 2017](https://www.meetup.com/pythonkc/events/qkwbtlywfbpb/)
 * No location yet (suggestions welcome)
 
