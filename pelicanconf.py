@@ -13,7 +13,7 @@ TIMEZONE = 'US/Central'
 DEFAULT_LANG = 'en'
 
 # Theme
-THEME = 'pelican-bootstrap3'
+THEME = 'pelican-sober'
 SIDEBAR_DIGEST = 'supporting the Python community in the greater Kansas City area'
 TWITTER_USERNAME = 'pythonkc'
 PYGMENTS_STYLE = 'solarizedlight'
