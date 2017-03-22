@@ -35,5 +35,6 @@ if __name__ == '__main__':
 * Vik Paruchuri. [Building An Analytics Data Pipeline In Python](https://www.dataquest.io/blog/data-pipelines-tutorial/)
 
 ## Agenda
-* Caleb Hyde
-* Jon Smajda
+* [Annie](https://www.meetup.com/pythonkc/members/101791012/) and [Ashley Sullins](https://www.meetup.com/pythonkc/members/14010593/): [Django Girls KC 2017](https://djangogirls.org/kansascity/)
+* [Caleb](https://www.meetup.com/pythonkc/members/3016720/) Hyde: Something to do with [Oculus Rift](https://www.oculus.com/rift/)
+* [Jon Smajda](https://www.meetup.com/pythonkc/members/44580502/): Something to do with [`pytest`](http://doc.pytest.org/en/latest/)
