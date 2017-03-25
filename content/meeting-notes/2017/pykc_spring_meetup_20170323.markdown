@@ -9,7 +9,7 @@ Summary: Meeting notes for Spring 2017 Python KC Meetup
 # -*- coding: utf-8 -*-
 
 def greetings():
-    print("Welcome to PythonKC Winter Meetup.")
+    print("Welcome to PythonKC Spring Meetup.")
     print("Today is Thursday 23 March 2017.")
     print("Thanks to Will & Grail.")
 
