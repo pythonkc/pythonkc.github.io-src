@@ -43,3 +43,9 @@ if __name__ == '__main__':
 * [ Beginner’s Guide to Neural Networks in Python](https://www.springboard.com/blog/beginners-guide-neural-network-in-python-scikit-learn-0-18/)
 * [osh (Object Shell)](https://github.com/geophile/osh)
 * [Statistical Data Analysis in Python (SciPy 2013)](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
+
+## Command Line Workshop Resources
+
+* [Udacity Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) - A free course teaching the Linux command line.
+* [Argparse Tutorial](https://docs.python.org/3.6/howto/argparse.html) - How to use Python's built-in `argparser` module to build command line applications.
+* [Cloud9 IDE](https://c9.io/) - An easy, free way to get to a Linux command line if you don't have a Linux machine/VPS or feel like fighting with Virtual Machines.
